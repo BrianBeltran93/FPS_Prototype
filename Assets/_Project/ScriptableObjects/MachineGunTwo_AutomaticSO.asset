@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c61b47cc2d7e2594487274a38917742d, type: 3}
+  m_Name: MachineGunTwo_AutomaticSO
+  m_EditorClassIdentifier: 
+  launchVelocity: 15
+  timeBetweenConsecutiveShots: 0.4
+  reloadTime: 8
+  maxAmmo: 25
